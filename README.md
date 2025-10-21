@@ -64,3 +64,14 @@ Dart	Programming language
 Hive	Local offline database
 JSON Assets	Preloaded lessons & content
 Material Design	Modern UI/UX
+
+
+
+---
+
+ About Me
+Hi, I'm Talha Shams – a passionate Flutter developer crafting sleek and engaging mobile/web apps.
+
+💼 LinkedIn: https://www.linkedin.com/in/talha-shams-20b524269
+✉️ Contact: talhashamsdev101@gmail.com
+
